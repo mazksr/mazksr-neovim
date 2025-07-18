@@ -28,7 +28,10 @@ end
 vim.filetype.add({
     extension = {
         templ = 'templ',
-    }
+    },
+    pattern = {
+        [".*%.config/hypr/.*%.conf"] = "hyprlang",
+    },
 })
 
 autocmd('TextYankPost', {

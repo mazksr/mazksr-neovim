@@ -28,7 +28,11 @@ return {
             ensure_installed = {
                 "lua_ls",
                 "rust_analyzer",
+                "gopls",
+                "hyprls",
             },
+            automatic_installation = true,
+            automatic_enable = true,
             handlers = {
                 function(server_name) -- default handler (optional)
 
