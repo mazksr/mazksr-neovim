@@ -58,7 +58,8 @@ autocmd('BufEnter', {
     --        vim.cmd.colorscheme("riderdark")
     --    else
     --        vim.cmd.colorscheme("riderdark")
-          vim.cmd.colorscheme("rose-pine")
+
+          vim.cmd.colorscheme("catppuccin")
     end
 })
 

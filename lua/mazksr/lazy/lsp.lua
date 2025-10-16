@@ -30,6 +30,7 @@ return {
                 "rust_analyzer",
                 "gopls",
                 "hyprls",
+                "clangd",
             },
             automatic_installation = true,
             automatic_enable = true,

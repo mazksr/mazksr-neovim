@@ -1,6 +1,6 @@
 {
   "LuaSnip": { "branch": "master", "commit": "458560534a73f7f8d7a11a146c801db00b081df0" },
-  "auto-pairs": { "branch": "master", "commit": "39f06b873a8449af8ff6a3eee716d3da14d63a76" },
+  "catppuccin": { "branch": "main", "commit": "af58927c55c9f3272c940ff02b3cee94a1249f26" },
   "cellular-automaton.nvim": { "branch": "main", "commit": "1606e9d5d04ff254023c3f3c62842d065708d6d3" },
   "cloak.nvim": { "branch": "main", "commit": "648aca6d33ec011dc3166e7af3b38820d01a71e4" },
   "cmp-buffer": { "branch": "main", "commit": "b74fab3656eea9de20a9b8116afa3cfc4ec09657" },
